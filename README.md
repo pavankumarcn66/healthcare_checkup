@@ -28,7 +28,7 @@
 ## Clone
 
 ```
-git clone git@github.com:Nix-code/Onsite-Health-Diagnostic-OHD.git
+git clone https://github.com/pavankumarcn66/healthcare_checkup.git
 ```
 - To run on your local machine, make sure you have installed every requirements.
 ```
