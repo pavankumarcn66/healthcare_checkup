@@ -12,7 +12,6 @@
 
 -   [Datasets](#Datasets)
 -   [Clone](#Clone)
--   [Developers](#Developers)
 -   [Licence](#Licence)
 -   [Note](#Note)
 
