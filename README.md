@@ -42,12 +42,7 @@ $ flask run
      $ python3 app.py
 ```
  
-## Developers
-[Rohan Patankar](https://github.com/rohanpatankar926) - ```Machine Learning & Deployment```
 
-[Apsara Budhathoki](https://github.com/ApsaraBudhathoki) - ```Web Design & Development```
-
-[Nishant Banjade](https://github.com/Nix-code) - ```Machine Learning & Deployment```
 
 ## Licence
 
